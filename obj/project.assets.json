@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Андрей\\Desktop\\СПО\\Основы алгоритмизации\\VisualStudio\\Zachet\\Zachet\\Zachet.csproj",
+      "projectUniqueName": "C:\\Users\\Андрей\\Desktop\\СПО\\Основы алгоритмизации\\Zachet\\Zachet\\Zachet.csproj",
       "projectName": "Zachet",
-      "projectPath": "C:\\Users\\Андрей\\Desktop\\СПО\\Основы алгоритмизации\\VisualStudio\\Zachet\\Zachet\\Zachet.csproj",
+      "projectPath": "C:\\Users\\Андрей\\Desktop\\СПО\\Основы алгоритмизации\\Zachet\\Zachet\\Zachet.csproj",
       "packagesPath": "C:\\Users\\Андрей\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Андрей\\Desktop\\СПО\\Основы алгоритмизации\\VisualStudio\\Zachet\\Zachet\\obj\\",
+      "outputPath": "C:\\Users\\Андрей\\Desktop\\СПО\\Основы алгоритмизации\\Zachet\\Zachet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Андрей\\AppData\\Roaming\\NuGet\\NuGet.Config",
